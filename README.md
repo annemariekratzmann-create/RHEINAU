@@ -2,6 +2,10 @@
 
 Persönliche Bewerbungswebsite für die Stelle **Mitarbeiterin (m/w/d) für den Bereich Digitalisierung** bei der **Stadt Rheinau**.
 
+## Live-Website
+
+👉 [annemarie-kratzmann.github.io/bewerbung-rheinau](https://annemarie-kratzmann.github.io/bewerbung-rheinau)
+
 ## Über diese Website
 
 Eine einseitige, vollständig responsive Bewerbungswebsite, die Werdegang, Kompetenzen und Motivation für die ausgeschriebene Stelle präsentiert.
